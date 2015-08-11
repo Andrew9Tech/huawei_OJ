@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+//有Bug啊！
 char Solution(char *str)
 {
 	if (str == NULL) return NULL;
